@@ -12,7 +12,8 @@ close cmd
 have fun
 ```
 
-
 Add the path to helvetica and helvetica bold, ttf fonts work fine.
 There is an example on how to use the function so I don't have to comment anything
+
+Returns a PIL.Image file. Good luck 🍀
 
